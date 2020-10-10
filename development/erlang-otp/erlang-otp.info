@@ -1,0 +1,12 @@
+PRGNAM="erlang-otp"
+VERSION="22.0"
+HOMEPAGE="http://www.erlang.org"
+DOWNLOAD="http://www.erlang.org/download/otp_src_22.0.tar.gz \
+          http://www.erlang.org/download/otp_doc_man_22.0.tar.gz"
+MD5SUM="9842663e49f48e967c44b7574423f9e9 \
+        7136c499d44e99313a06109458a6d793"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Ryan S. Northrup"
+EMAIL="northrup@yellowapple.us"

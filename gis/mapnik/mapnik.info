@@ -1,0 +1,12 @@
+PRGNAM="mapnik"
+VERSION="3.0.23"
+HOMEPAGE="https://mapnik.org"
+DOWNLOAD="https://github.com/mapnik/mapnik/archive/v3.0.23/mapnik-3.0.23.tar.gz \
+          https://github.com/mapbox/variant/archive/v1.1.6/variant-1.1.6.tar.gz"
+MD5SUM="db96c3534426f8edb9fba4d508388b18 \
+	0de5f04949027735dc5d4d824e6e5562"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Benjamin Trigona-Harany"
+EMAIL="slackbuilds@jaxartes.net"

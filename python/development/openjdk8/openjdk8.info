@@ -1,0 +1,26 @@
+PRGNAM="openjdk8"
+VERSION="8u242"
+HOMEPAGE="http://openjdk.java.net"
+DOWNLOAD="http://icedtea.classpath.org/download/source/icedtea-3.15.0.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/openjdk.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/corba.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/jaxp.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/jaxws.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/jdk.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/langtools.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/nashorn.tar.xz \
+          http://icedtea.classpath.org/download/drops/icedtea8/3.15.0/hotspot.tar.xz"
+MD5SUM="f789fff45db6fdcc663d2a277e423763 \
+    f8de18e2a79f5cd0a4f65c134505f1b3 \
+    a1835170b80736ea01548892d05269b9 \
+    bac0dfc3edeb36bb0a8e17bf3e8638ba \
+    c0ec29233b16d028710f3e8a46fa0d8d \
+    1fb48b1c922b5e451c8c974e7e017c81 \
+    aac611dac366e55f608b8c0c945b230c \
+    c4b7700db1ccdb5817a8a614934089a3 \
+    1bf3fe318193497ad84f96c166261218"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES="openjdk7"
+MAINTAINER="Strahil Yordanov"
+EMAIL="strahilski@yahoo.com"

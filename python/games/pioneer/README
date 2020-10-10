@@ -1,0 +1,26 @@
+Pioneer is a space adventure game set in the Milky Way galaxy at the
+turn of the 31st century.
+
+The game is open-ended, and you are free to explore the millions of star
+systems in the game. You can land on planets, slingshot past gas giants,
+and burn yourself to a crisp flying between binary star systems. You can
+try your hand at piracy, make your fortune trading between systems, or
+do missions for the various factions fighting for power, freedom or
+self-determination.
+
+WARNING: If pioneer is already installed, uninstall it before compiling
+or important game data may be missing and pioneer will fail to start.
+
+OpenGL core profile version 3.1 or newer is a runtime dependency, to
+determine what version of OpenGL is installed use:
+
+  glxinfo | grep "core profile version"
+
+Note: If you have intel or amd GPU with free drivers, it is recommended
+to install libtxc_dxtn as well.
+
+lua52 is an optional dependency.
+
+To build with debugging support use:
+
+  DEBUG="yes" ./pioneer.SlackBuild

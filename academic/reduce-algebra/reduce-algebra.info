@@ -1,0 +1,12 @@
+PRGNAM="reduce-algebra"
+VERSION="20200624svn5377"
+HOMEPAGE="https://reduce-algebra.sourceforge.io"
+DOWNLOAD="https://downloads.sourceforge.net/reduce-algebra/snapshot_2020-06-24/Reduce-svn5377-src.tar.gz \
+          https://downloads.sourceforge.net/reduce-algebra/snapshot_2020-06-24/linux64/reduce-common_5377_all.tgz"
+MD5SUM="d71d28c8fb2a50308efc987c601a521e \
+        6aa7dae524e55cfb8610be3e6aa171f4"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Alexander Verbovetsky"
+EMAIL="alik@ejik.org"
